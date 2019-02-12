@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ooquook.turner-bowling-wedding.com/sitemap.xml
